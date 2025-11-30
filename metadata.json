@@ -1,0 +1,7 @@
+{
+  "name": "Lap Bom - AI Calculus Solver",
+  "description": "Lap Bom is an advanced calculus solver. Solves complex derivatives, integrals, and limits with step-by-step LaTeX rendering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
